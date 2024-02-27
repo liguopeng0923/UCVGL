@@ -1,2 +1,5 @@
 # UCVGL
 Codes for CVPR24 paper 《Unleashing Unlabeled Data: A Paradigm for Cross-View Geo-Localization》
+
+Common approaches to large-area cross-view geo-localization (CVGL) rely on paired ground-satellite images and employ label-driven supervised training. However, the cost of collecting precise cross-view image pairs hinders their deployment in real-life scenarios. This paper investigates the effective utilization of unlabeled data for CVGL, encompassing both unsupervised and semi-supervised settings. Without the ground truth, as a fine-grained retrieval, CVGL will be more challenging to handle the significant imaging and spatial gaps between ground and satellite images. 
+To this end, we propose an unsupervised framework including a novel projection to guide the model for retrieving initial pseudo-labels by projecting ground images to satellite views and a fast re-ranking mechanism to refine the pseudo-labels by leveraging the fact that ``the perfectly paired ground-satellite image is located in a unique and identical scene". The framework exhibits successful performance on three open-source benchmarks. Our code and models will be released.
