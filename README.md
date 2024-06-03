@@ -2,7 +2,7 @@
 
 This repository provides the official code for CVPR2024 "[Unleashing Unlabeled Data A Paradigm for Cross-View Geo-Localization](https://arxiv.org/abs/2403.14198)".
 
-<img width=519 height=256 src="Overview.png"/>
+<img src="Overview.png"/>
 
 ## Citation
 If you find our work useful, please star this repository and cite our paper:
