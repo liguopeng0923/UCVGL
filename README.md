@@ -7,10 +7,11 @@ This repository provides the official code for CVPR2024 "[Unleashing Unlabeled D
 ## Citation
 If you find our work useful, please star this repository and cite our paper:
 ```
-@InProceedings{li2024ucvgl,
-  title={Unleashing Unlabeled Data A Paradigm for Cross-View Geo-Localization},
+@inproceedings{li2024unleashing,
+  title={Unleashing Unlabeled Data: A Paradigm for Cross-View Geo-Localization},
   author={Li, Guopeng and Qian, Ming and Xia, Gui-Song},
-  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={16719--16729},
   year={2024}
 }
 ```
